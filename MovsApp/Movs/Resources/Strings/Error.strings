@@ -1,0 +1,12 @@
+/* 
+  Error.strings
+  Movs
+
+  Created by Leonardo Canhette on 06/01/20.
+  Copyright © 2020 Leonardo Canhette. All rights reserved.
+*/
+
+"emptyWithFilter"           = "Sua busca por '[TITLE]' não resultou em nenhum resultado.";
+"empty"                     = "Nenhum filme encontrado.";
+"apiError"                  = "Erro na API: ";
+"decodeError"               = "Erro em converter os dados: ";

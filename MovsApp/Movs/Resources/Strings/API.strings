@@ -1,0 +1,12 @@
+/* 
+  API.strings
+  Movs
+
+  Created by Leonardo Canhette on 06/01/20.
+  Copyright © 2020 Leonardo Canhette. All rights reserved.
+*/
+
+"basePathUrlImage"              = "http://image.tmdb.org/t/p/w780";
+"basePathRequestMovie"          = "https://api.themoviedb.org/3/movie/popular?language=en-US";
+"basePathRequesthMovieByName"   = "https://api.themoviedb.org/3/search/movie?language=en-US&include_adult=false";
+"apiKey"                        = "f350a5f7c3ef3d8e9235fcbe68ce665c";
